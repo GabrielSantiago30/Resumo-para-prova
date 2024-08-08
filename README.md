@@ -11,7 +11,7 @@ Jest - Framework para testes unitários <br>
 Framework - Uma extensão(DLC) da linguagem base <br>
 Testes unitários - Testa uma unidade de código (uma função) <br>
 
-algumacoisa.test.js <br>
+Nome do arquivo js onde será rodado os testes - algumacoisa.test.js <br>
 const{} = require() - Importando a função para o teste <br>
 string dentro do it - indicação do que aquele caso de teste específico está testando <br>
 expect(função(parâmetros)) <br>
