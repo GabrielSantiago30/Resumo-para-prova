@@ -1,8 +1,8 @@
 # Resumo-para-prova
 
-npm init -y  *COMANDO QUE CRIA OS ARQUIVOS JSON* <br>
-npm install --save-dev jest  *COMANDO QUE CRIA A PASTA NODE MODULE E INSTALA OU IMPORTA O JEST PARA O SEU REPOSITÓRIO* <br>
-npm test -  *COMANDO DE EXECUÇÃO DO TESTE* <br>
+npm init -y <br> *COMANDO QUE CRIA OS ARQUIVOS JSON* <br>
+npm install --save-dev jest <br> *COMANDO QUE CRIA A PASTA NODE MODULE E INSTALA OU IMPORTA O JEST PARA O SEU REPOSITÓRIO* <br>
+npm test - <br> *COMANDO DE EXECUÇÃO DO TESTE* <br>
 
 RESUMO <br>
 
