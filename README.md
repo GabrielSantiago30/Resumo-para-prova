@@ -19,7 +19,7 @@ expect(função(parâmetros)) <br>
 O código roda o teste pelo terminal <br>
 "Error: no test specified" - nenhum teste especificado - Tem que colocar "jest" na parte de test dentro de scripts em package.json <br>
 TypeError: is not a function <br>
-ReferenceError: '' is not defined - linha que está mostrando ou a de cima está errada.cConteúdo de html que o jest não lê, então tem que comentar a linha para resolver. <br>
+ReferenceError: '' is not defined - linha que está mostrando ou a de cima está errada. Conteúdo de html que o jest não lê, então tem que comentar a linha para resolver. <br>
 Se tem element no nome é html <br>
 
 CHAT GPT - PASSOS <br>
